@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
 
-FYI: I've added a setTimeout of 2 seconds to simulate fetching data from a server
+FYI: I've added a setTimeout of 2 seconds to simulate fetching data from a server.
 
 ## Installing dependencies
 
